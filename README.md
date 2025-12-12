@@ -15,14 +15,14 @@ is used to convert those objects into vectors.
 
 ## Instructions
 
-1. Create a python Virtual Environment usings the following commands below \n
-   `python -m venv <venv_name>`\n
-   `source <venv_name>/bin/activate`\n
+1. Create a python Virtual Environment usings the following commands below 
+   `python -m venv <venv_name>`
+   `source <venv_name>/bin/activate`
 or if you are using Windows\n
-   `python -m venv <venv_name>`\n
-   `.<venv_name>\Scripts\activate`\n
+   `python -m venv <venv_name>`
+   `.<venv_name>\Scripts\activate`
 2. Installing the requirements
-    `pip install -r requirements.txt`\n
+    `pip install -r requirements.txt`
 3. After that, you can run the User Interface with the help of the following command
-   `streamlit run app.py`\n
+   `streamlit run app.py`
    
