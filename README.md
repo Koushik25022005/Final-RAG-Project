@@ -18,7 +18,7 @@ is used to convert those objects into vectors.
 1. Create a python Virtual Environment usings the following commands below 
    `python -m venv <venv_name>`
    `source <venv_name>/bin/activate`
-or if you are using Windows\n
+or if you are using Windows
    `python -m venv <venv_name>`
    `.<venv_name>\Scripts\activate`
 2. Installing the requirements
