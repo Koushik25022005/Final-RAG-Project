@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+Pillow
+langchain
+faiss-cpu
+transformers
+torch
+python-dotenv
+numpy<2
+pdfplumber
+sentence-transformers
