@@ -13,16 +13,16 @@ with a few overlaps. After it performs metadata extraction with the help of sent
 is used for better semantic searchs, text similarity wiht the help of an embedding model 
 is used to convert those objects into vectors. 
 
-# Instructions
+## Instructions
 
-1. Create a python Virtual Environment usings the following commands below
-   `python -m venv <venv_name>`
-   `source <venv_name>/bin/activate`
-or if you are using Windows
-   `python -m venv <venv_name>
-   `.<venv_name>\Scripts\activate`
+1. Create a python Virtual Environment usings the following commands below \n
+   `python -m venv <venv_name>`\n
+   `source <venv_name>/bin/activate`\n
+or if you are using Windows\n
+   `python -m venv <venv_name>`\n
+   `.<venv_name>\Scripts\activate`\n
 2. Installing the requirements
-    `pip install -r requirements.txt`
+    `pip install -r requirements.txt`\n
 3. After that, you can run the User Interface with the help of the following command
-   `streamlit run app.py`
+   `streamlit run app.py`\n
    
